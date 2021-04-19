@@ -36,3 +36,6 @@ True
 True
 False
 ```
+
+## WHITEBOARD - understanding of the problem
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/115257239-809aea80-a0f5-11eb-806c-6aa723146f9c.png" width="700" height= "200"></div>
