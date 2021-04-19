@@ -38,4 +38,4 @@ False
 ```
 
 ## WHITEBOARD - understanding of the problem
-<div align="center"><img src="https://user-images.githubusercontent.com/66263776/115258153-5a297f00-a0f6-11eb-8ccb-ff2ffe9ac71d.png" width="800" height= "500"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/115258153-5a297f00-a0f6-11eb-8ccb-ff2ffe9ac71d.png" width="900" height= "400"></div>
