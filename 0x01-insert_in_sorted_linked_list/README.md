@@ -188,4 +188,7 @@ int main(void)
 ```
 ## WHiteboard
 ### Understanding the code
-<div align="center"><img src="https://user-images.githubusercontent.com/66263776/116258828-e82ae880-a73a-11eb-8d2c-68634e09f128.png" width="700" height= "500"> </div>
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/116262910-8bc9c800-a73e-11eb-92dc-475c255a9119.png" width="700" height= "500"> </div>
+
+## Function insert node
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/116270502-c5053680-a744-11eb-8aeb-81c5026bce21.png" width="700" height= "500"> </div>
