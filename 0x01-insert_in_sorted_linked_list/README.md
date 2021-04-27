@@ -186,3 +186,6 @@ int main(void)
 402
 1024
 ```
+## WHiteboard
+### Understanding the code
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/116258828-e82ae880-a73a-11eb-8d2c-68634e09f128.png" width="700" height= "500"> </div>
