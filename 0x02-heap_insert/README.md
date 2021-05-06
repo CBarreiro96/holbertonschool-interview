@@ -206,9 +206,14 @@ Write a function that creates a binary tree node:
   .--(012)--.         .--(402)--.
 (006)     (016)     (256)     (512)
 ```
-#### WHITEBOARD
-<div align="center"><img src="https://user-images.githubusercontent.com/66263776/117331251-312a1d80-ae5c-11eb-95d6-b79a88e71e9a.png" width="700" height= "400"> </div>
+#### :boom::boom: WHITEBOARD :boom::boom:
+<details>
+    <summary>Whiteboard</summary>
+    <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117331251-312a1d80-ae5c-11eb-95d6-b79a88e71e9a.png" width="700" height= "400"> </div>
+    <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117333031-207aa700-ae5e-11eb-8af9-f9b8c235eda6.png" width="700" height= "400"> </div>
+    <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117334532-b6fb9800-ae5f-11eb-9ea8-c63c7143660a.png" width="700" height= "400"> </div>
 
+</details>
 
 ### #1  Heap - Insert
 Write a function that inserts a value into a Max Binary Heap:
