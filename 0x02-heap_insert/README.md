@@ -150,7 +150,7 @@ Write a function that creates a binary tree node:
 * Your function must return a pointer to the new node, or NULL on failure
 
 <details>
-    <summary>Preview code</summary>
+    <summary>Preview code(<code>0-main.c</code>)</summary>
     
 ```C
     #include <stdlib.h>
@@ -229,7 +229,7 @@ Write a function that inserts a value into a Max Binary Heap:
 Your file 0-binary_tree_node.c will be compiled during the correction
 
 <details>
-    <summary>Code Preview</summary>
+    <summary>Code Preview <code>1-main.c</code></summary>
 
 ```C
 #include <stdlib.h>
