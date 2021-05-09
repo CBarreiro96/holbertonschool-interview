@@ -340,6 +340,6 @@ Inserted: 50
 #### :boom::boom: WHITEBOARD :boom::boom:
 <details>
     <summary>Whiteboard</summary>
-    <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117557395-157b6e80-b038-11eb-85bc-105fb9850092.png" width="700" height= "400"> </div>
+    <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117557395-157b6e80-b038-11eb-85bc-105fb9850092.png" width="900" height= "700"> </div>
     
 </details>
