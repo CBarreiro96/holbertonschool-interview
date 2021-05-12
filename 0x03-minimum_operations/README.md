@@ -51,7 +51,7 @@ Min number of operations to reach 12 characters: 7
 ## :memo: WHITEBOARD :memo:
 
 <details>
-<summary><b>Whiteboard</b>></summary>
+<summary><b>Whiteboard</b></summary>
 <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117995653-1d246700-b307-11eb-9965-f6058a1f713f.png" width="800" height= "600"> </div>
 
 </details>
