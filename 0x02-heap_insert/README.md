@@ -2,7 +2,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/66263776/117325229-21a7d600-ae56-11eb-9eab-30f2486ebe8f.png" width="300" height= "300"> </div>
 
 
-# <div align="center"><img src="https://user-images.githubusercontent.com/66263776/98705433-b6b88f00-234b-11eb-97b7-cb193f7424f4.png" width="20" height= "30"> 0x02. Heap Insert <img src="https://user-images.githubusercontent.com/66263776/98705433-b6b88f00-234b-11eb-97b7-cb193f7424f4.png" width="20" height= "30"></div>
+# <div align="center"><img src="https://user-images.githubusercontent.com/66263776/98705433-b6b88f00-234b-11eb-97b7-cb193f7424f4.png" width="20" height= "30"> 🏋 0x02. Heap Insert 🏋 <img src="https://user-images.githubusercontent.com/66263776/98705433-b6b88f00-234b-11eb-97b7-cb193f7424f4.png" width="20" height= "30"></div>
 
 ## :scroll: Description :scroll:
 
