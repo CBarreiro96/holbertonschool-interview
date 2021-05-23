@@ -175,3 +175,9 @@ gcc -Wall -Wextra -Werror -pedantic 1-main.c 0-sandpiles.c -o 0-sandpile
 3 3 3
 3 3 3
 ```
+## :memo::fountain_pen: WHITEBOARD :fountain_pen: :memo:
+<details>
+<summary>📓✏️✏️ <b>Whiteboard<b> ✏️✏️📓</summary>
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/119271024-470e4100-bbc5-11eb-84df-76fb755646b1.png" width="800" height= "500"> </div>
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/119271719-4f1bb000-bbc8-11eb-9301-f83d86a2bdf2.png" width="800" height= "500"> </div>
+</details>
