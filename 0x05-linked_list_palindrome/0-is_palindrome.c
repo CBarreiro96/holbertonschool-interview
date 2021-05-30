@@ -55,10 +55,10 @@ int is_palindrome(listint_t **head)
 	if (*head == NULL)
 		return (1);
 
-	mid = keepMiddle(head);
+	mid = Middle(head);
 
 	/** reverse the list */
-	reverse(&mid);
+	change_order(&mid);
 
 	/** compare the lists */
 	while (mid)
