@@ -4,6 +4,13 @@
 
 Write a function in C that checks if a singly linked list is a palindrome.
 * Prototype: int is_palindrome(listint_t **head);
-<p style="font-family: times, serif; font-size:11pt; font-style:italic">
-    Why did we use these specific parameters during the calculation of the fingerprints?
-</p>
+<p class="red">red text</p>
+
+`red text`{.red}
+
+
+::::: {#special .red}
+Here is a paragraph.
+
+And another.
+:::::
