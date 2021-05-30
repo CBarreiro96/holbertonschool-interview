@@ -187,3 +187,10 @@ gcc -Wall -Werror -Wextra -pedantic 0-main.c linked_lists.c 0-is_palindrome.c -o
 1
 Linked list is a palindrome
 ```
+
+### :pencil2::pencil2: WHITEBOARD :pencil2::pencil2:
+<details>
+<summary><b> WHITEBOARD </b></summary>
+<div align="center"><img src="https://user-images.githubusercontent.com/66263776/120112300-e047d500-c13a-11eb-8f9d-2c82f43d2137.png" width="1000" height= "400"> </div>
+
+</details>
