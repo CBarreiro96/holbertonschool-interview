@@ -7,11 +7,9 @@ Write a function in C that checks if a singly linked list has a cycle in it.
 *   **Prototype:** int check_cycle(listint_t *list);
 * **Return:** 0 if there is no cycle, 1 if there is a cycle
 
+## :book: Default file :book:
 <details>
-<summary><b>Default file </b></summary>
-<br>
-
-1. **lists.h**
+<summary><b>1).  lists.h</b></summary>
 
 ```C
 #ifndef LISTS_H
@@ -40,9 +38,10 @@ int check_cycle(listint_t *list);
 
 #endif /* LISTS_H */
 ```
-<br>
 
-2. **0-linked_lists.c**
+</details>
+<details>
+<summary><b>2).  0-linked_lists.c</b></summary>
 
 ```C
 #include <stdio.h>
@@ -109,10 +108,9 @@ void free_listint(listint_t *head)
     }
 }
 ```
-
-<br>
-
-3. **0-main.c**
+</details>
+<details>
+<summary><b>3).  0-main.c</b></summary>
 
 ```C
 #include <stdlib.h>
@@ -170,6 +168,5 @@ int main(void)
 }
 ```
 </details>
-
 
 ## :memo: Whiteboard :memo:
