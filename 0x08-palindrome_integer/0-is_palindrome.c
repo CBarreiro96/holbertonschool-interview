@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "palindrme.h"
+#include "palindrome.h"
 
 /**
  * is_palindrome - Function that check if an integer is a palindrome
