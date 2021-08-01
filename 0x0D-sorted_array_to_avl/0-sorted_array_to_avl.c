@@ -61,7 +61,7 @@ avl_t *sort_insert(int *array, int min, int max){
  *
  * Return: pointer to the root node of the created AVL tree, or NULL on failure
  */
-avl_t *sort_array_to_avl(int *array, size_t size){
+avl_t *sorted_array_to_avl(int *array, size_t size){
     avl_t *root = NULL;
 
     if (!array || size < 1)
