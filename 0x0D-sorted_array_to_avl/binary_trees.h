@@ -29,3 +29,4 @@ avl_t *sorted_array_to_avl(int *array, size_t size);
 
 
 #endif /* _BINARY_TREES_H_ */
+
