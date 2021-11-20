@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 Description: Given a list of non-negative integers representing walls of
 width 1, calculate how much water will be retained after it rains.
@@ -13,12 +14,14 @@ width 1, calculate how much water will be retained after it rains.
 
 
 def rain(walls):
+
     """
     Args:
         walls - is a list of non-negative integers.
     Returns:
         If the list is empty return 0.
     """
+
     n = len(walls)
     total_water = 0
 
