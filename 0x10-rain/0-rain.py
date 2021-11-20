@@ -1,43 +1,43 @@
 #!/usr/bin/python3
 
 """
-Description: Given a list of non-negative integers representing walls of
-width 1, calculate how much water will be retained after it rains.
-
-- Prototype: def rain(walls)
-- walls is a list of non-negative integers.
-- Return: Integer indicating total amount of rainwater retained.
-- Assume that the ends of the list (before index 0 and after index
-  walls[-1]) are not walls, meaning they will not retain water.
-- If the list is empty return 0.
+Module for Rain Task
 """
 
 
 def rain(walls):
-
     """
-    Args:
-        walls - is a list of non-negative integers.
-    Returns:
-        If the list is empty return 0.
+    Given a list of non-negative integers representing walls of width 1,
+    calculate how much water will be retained after it rains.
+    - Prototype: def rain(walls)
+    - walls is a list of non-negative integers.
+    - Return: Integer indicating total amount of rainwater retained.
+    - Assume that the ends of the list
+    (before index 0 and after index walls[-1])
+    are not walls, meaning they will not retain water.
+    - If the list is empty return 0.
     """
+    if not walls or not isinstance(walls, list):
+        return 0
 
-    n = len(walls)
-    total_water = 0
+    l, water = len(walls), 0
+    left, right = [0] * l, [0] * l
 
-    for i in range(1, n - 1):
-        left = walls[i]
-        print(f'Este es left {left}')
-        for j in range(i):
-            left = max(left, walls[j])
-            print(f'este es left despues {left}')
-        right = walls[i]
-        print(f'este es right {right}')
+    left[0], right[l - 1] = walls[0], walls[l - 1]
 
-        for j in range(i + 1, n):
-            right = max(right, walls[j])
-            print(f'este es right despues {right}')
+    i, j = 1, l - 2
 
-        total_water = total_water + (min(left, right) - walls[i])
-        print(f'este es el total de agua {total_water}')
-    return total_water
+    while True:
+        if i >= l or j <= -1:
+            break
+
+        left[i] = max(left[i - 1], walls[i])
+        right[j] = max(right[j + 1], walls[j])
+
+        i += 1
+        j -= 1
+
+    for i in range(l):
+        water += min(left[i], right[i]) - walls[i]
+
+    return water
